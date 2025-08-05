@@ -53,4 +53,17 @@ Selected Year = SELECTEDVALUE('Date'[Year])
 ```
 ---
 
+## 🔍 Key Insights
+
+- 💰 **Revenue**: ₹986.57M
+- 📦 **Total Sales Quantity**: 2M Units
+- 🌍 **Top Market**: Delhi NCR (₹520.72M Revenue)
+- 🛍 **Top Customer**: Electricalara Stores (₹0.65M Revenue)
+- 🧃 **Top Product**: Product65 (₹0.42M Revenue)
+- ⏳ **Revenue Trend**: Consistent growth with noticeable seasonality from 2017–2020
+- 📅 **Time Filters**: Slicer by year and month for flexible reporting
+
+---
+## Dashboard Preview
+
 ![Dashboard Screenshot](dashboard_img.png)
