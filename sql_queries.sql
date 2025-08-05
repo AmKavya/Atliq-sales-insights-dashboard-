@@ -7,7 +7,7 @@ SELECT DISTINCT product_code FROM sales.transactions WHERE market_code = 'Mark00
 -- 2. Transaction Analysis by Market
 SELECT market_code, COUNT(*) as cnt FROM sales.transactions GROUP BY market_code;
 
--- 3. Count customers and check unique values
+-- 3. Count customers and check unique value
 SELECT COUNT(*) FROM sales.customers;
 SELECT COUNT(DISTINCT customer_name) FROM sales.customers;
 
