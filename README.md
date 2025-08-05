@@ -52,6 +52,17 @@ Revenue LY = CALCULATE([Total Revenue], SAMEPERIODLASTYEAR('Date'[Date]))
 Selected Year = SELECTEDVALUE('Date'[Year])
 ```
 ---
+## 🔍 SQL Data Exploration 
+
+Exploratory SQL queries to understand and clean raw data before loading into Power BI.  
+Find the full set of queries in [`sql_queries.sql`](sql_queries.sql).
+
+These include:
+- Identifying garbage values and currency inconsistencies
+- Basic aggregations: transactions per market/year/month
+- Top customers and products by revenue
+
+---
 
 ## 🔍 Key Insights
 
