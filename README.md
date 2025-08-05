@@ -50,5 +50,6 @@ Revenue LY = CALCULATE([Total Revenue], SAMEPERIODLASTYEAR('Date'[Date]))
 
 -- Selected Year (for display in visuals)
 Selected Year = SELECTEDVALUE('Date'[Year])
-
-
+```
+---
+![Sales Insights Dashboard Preview](dashboard_img)
